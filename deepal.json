@@ -1,0 +1,16 @@
+{
+    "name": "Deepal Token",
+    "description": "Deepal, a blockchain developer in-demand!",
+    "image": "https://github.com/deepalt92/NFT-data/blob/main/Deepal.jpg",
+    "external_url": "https://github.com",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Deepal"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Genesis"
+        }
+    ]
+}
